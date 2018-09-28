@@ -1,6 +1,22 @@
 = Presentation Glowroot
 
-== SIHM
+_SIHM_
 
 ---
+
+=== Installation
+
+Cloner le repo git : 
+
+[source,shell]
+----
+git clone git@github.com:ptitbob/glowroot-demo.git
+----
+
+Placez vous à l'interieur de repo cloné et initialisez les sous modules : 
+
+[source,shell]
+----
+git submodule update --init --recursive
+----
 
