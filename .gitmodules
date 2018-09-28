@@ -1,0 +1,6 @@
+[submodule "presentation"]
+	path = presentation
+	url = git@github.com:ptitbob/glowroot-demo-presentation.git
+[submodule "exemple"]
+	path = exemple
+	url = git@github.com:ptitbob/glowroot-demo-source.git
