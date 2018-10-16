@@ -22,5 +22,5 @@ git submodule update --init --recursive
 
 L'initialisation du moteur de presentation, se placer dans le repertoire `presentation/reveal` et executer `npm install`.
 
-pour lancer la presentation, se placer dans le repertoire `presentation/reveal` et executer `grunt serve --root=..`
+pour lancer la presentation, se placer dans le repertoire `presentation/reveal` et executer `grunt serve -root=..`
 
